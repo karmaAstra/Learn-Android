@@ -1,0 +1,10 @@
+//This is the first day of learning Kotlin
+
+fun main(){
+  println("Hello World!")
+}
+
+// Here fun is function 
+// main is starting point
+// println --> Printing method
+// Hello World --> General TEXT to print
